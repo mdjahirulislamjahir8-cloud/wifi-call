@@ -1,0 +1,6 @@
+{
+  "name": "WaveLink",
+  "description": "Offline peer-to-peer video call, audio call, and text messaging app over Bluetooth and Wi-Fi Direct local signal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

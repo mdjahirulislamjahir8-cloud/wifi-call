@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WaveLink</string>
+    <string name="nav_radar">Radar</string>
+    <string name="nav_chats">Chats</string>
+    <string name="nav_calls">Calls</string>
+    <string name="nav_guide">Guide &amp; AAB</string>
+    <string name="cd_app_logo">WaveLink Signal Logo</string>
+    <string name="cd_radar_banner">Wireless peer-to-peer signal illustration</string>
+    <string name="cd_bluetooth_icon">Bluetooth Transport</string>
+    <string name="cd_wifi_direct_icon">Wi-Fi Direct Signal Transport</string>
+    <string name="cd_audio_call">Start Audio Call</string>
+    <string name="cd_video_call">Start Video Call</string>
+    <string name="cd_hang_up">End Call</string>
+    <string name="cd_toggle_mute">Toggle Microphone Mute</string>
+    <string name="cd_toggle_speaker">Toggle Speakerphone</string>
+    <string name="cd_toggle_camera">Toggle Local Camera</string>
+    <string name="cd_flip_camera">Switch Front or Rear Camera</string>
+    <string name="cd_send_message">Send Text Message</string>
+    <string name="cd_back">Navigate Back</string>
+    <string name="cd_scan_peers">Scan Nearby Devices</string>
+    <string name="cd_listen_mode">Enable Receive Mode</string>
+</resources>
